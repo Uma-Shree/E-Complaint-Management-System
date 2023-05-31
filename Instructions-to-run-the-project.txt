@@ -1,0 +1,29 @@
+How to run the E-Complaint Management System (E-CMS) Project
+
+1. Download the  zip file
+
+2. Extract the file and copy cms folder
+
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+5. Create a database with name cms
+
+6. Import cms.sql file(given inside the zip package in SQL File folder)
+
+7.Run the script http://localhost/cms (for home page)
+
+8. For admin panel
+
+http://localhost/cms/admin  (admin panel)
+
+Credential for admin panel :
+
+Username: admin 
+Password: Pass@cms987
+
+Credential for user panel :
+
+Username: umashree31jan@gmail.com
+Password: 12345
